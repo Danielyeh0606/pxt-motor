@@ -1,4 +1,5 @@
 {
+    "motor|block":"直流/伺服/步進馬達驅動",
     "motor.Dir.CW|block": "正轉",
     "motor.Dir.CCW|block": "反轉",
     "motor.servo|block": "伺服馬達|%index|角度|%degree",
